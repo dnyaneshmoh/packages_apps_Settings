@@ -86,9 +86,9 @@
     <string name="proximity_wake_summary">Проверять датчик приближения при выходе из режима сна</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Частота обновления экрана</string>
-    <string name="refresh_rate_summary_auto">Авто / Автоматическое повышение частоты обновления с 60 до 90 Гц для некоторых приложений</string>
+    <string name="refresh_rate_summary_auto">Авто / Автоматическое повышение частоты обновления с 60 до 120 Гц для некоторых приложений</string>
     <string name="refresh_rate_summary_60">60Гц / Частота обновления принудительно 60 Гц для всех приложений</string>
-    <string name="refresh_rate_summary_90">90Гц / Частота обновления принудительно 90 Гц для всех приложений. Увеличенный расход батареи</string>
+    <string name="refresh_rate_summary_120">120Гц / Частота обновления принудительно 120 Гц для всех приложений. Увеличенный расход батареи</string>
     <string name="auto_refresh_rate">Авто</string>
     <!-- Battery light -->
     <string name="battery_light_title">Включить световой индикатор во время зарядки</string>

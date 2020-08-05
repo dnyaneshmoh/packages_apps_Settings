@@ -86,9 +86,9 @@
     <string name="proximity_wake_summary">Verificar o sensor de proximidade antes de ligar o ecrã</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Taxa de atualização do ecrã</string>
-    <string name="refresh_rate_summary_auto">Automático / Aumenta automaticamente a taxa de atualização de 60 para 90Hz para alguns conteúdos</string>
+    <string name="refresh_rate_summary_auto">Automático / Aumenta automaticamente a taxa de atualização de 60 para 120Hz para alguns conteúdos</string>
     <string name="refresh_rate_summary_60">60Hz / Taxa de atualização bloqueada em 60Hz para todos os conteúdos</string>
-    <string name="refresh_rate_summary_90">90Hz / Taxa de atualização bloqueada em 90Hz para todos os conteúdos. Maior uso de bateria</string>
+    <string name="refresh_rate_summary_120">120Hz / Taxa de atualização bloqueada em 120Hz para todos os conteúdos. Maior uso de bateria</string>
     <string name="auto_refresh_rate">Automático</string>
     <!-- Battery light -->
     <string name="battery_light_title">Acenda a luz ao carregar</string>

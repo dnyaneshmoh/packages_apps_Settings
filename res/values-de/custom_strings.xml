@@ -86,9 +86,9 @@ Benachrichtigungen werden für die entsprechenden Apps eventuell verzögert ange
     <string name="proximity_wake_summary">Vor dem Einschalten des Bildschirms den Näherungssensor überprüfen</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Bildwiederholrate</string>
-    <string name="refresh_rate_summary_auto">Erhöht automatisch die Bildwiederholrate für einige Inhalte von 60 auf 90 Hz</string>
+    <string name="refresh_rate_summary_auto">Erhöht automatisch die Bildwiederholrate für einige Inhalte von 60 auf 120 Hz</string>
     <string name="refresh_rate_summary_60">Bildwiederholrate für alle Inhalte auf 60 Hz festlegen.</string>
-    <string name="refresh_rate_summary_90">Bildwiederholrate für alle Inhalte auf 90 Hz festlegen (erhöht Akkuverbrauch)</string>
+    <string name="refresh_rate_summary_120">Bildwiederholrate für alle Inhalte auf 120 Hz festlegen (erhöht Akkuverbrauch)</string>
     <string name="auto_refresh_rate">Automatisch</string>
     <!-- Battery light -->
     <string name="battery_light_title">Licht beim Laden aktivieren</string>

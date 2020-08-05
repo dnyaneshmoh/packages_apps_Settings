@@ -86,9 +86,9 @@ Obavijesti za te aplikacije mogu kasniti."</string>
     <string name="proximity_wake_summary">Provjera senzora blizine prije buđenja zaslona</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Brzina osvježavanja zaslona</string>
-    <string name="refresh_rate_summary_auto">Automatski / Automatski povećava brzinu osvježavanja zaslona s 60Hz na 90Hz za neke sadržaje</string>
+    <string name="refresh_rate_summary_auto">Automatski / Automatski povećava brzinu osvježavanja zaslona s 60Hz na 120Hz za neke sadržaje</string>
     <string name="refresh_rate_summary_60">60Hz / Osvježavanje zaslona zaključano je na 60Hz za sav sadržaj</string>
-    <string name="refresh_rate_summary_90">90Hz / Osvježavanje zaslona je zaključano na 90Hz za sav sadržaj. Povećana potrošnja baterije</string>
+    <string name="refresh_rate_summary_120">120Hz / Osvježavanje zaslona je zaključano na 120Hz za sav sadržaj. Povećana potrošnja baterije</string>
     <string name="auto_refresh_rate">Auto</string>
     <!-- Battery light -->
     <string name="battery_light_title">Uključite svijetlo prilikom punjenja</string>

@@ -88,7 +88,7 @@
     <string name="refresh_rate_title">স্ক্রিন রিফ্রেশ রেট</string>
     <string name="refresh_rate_summary_auto">কিছু ক্ষেত্রে রিফ্রেশ রেট স্বয়ংক্রিয় / প্রয়োজন অনুসারে 60 থেকে 90Hz পর্যন্ত বাড়বে</string>
     <string name="refresh_rate_summary_60">60Hz / রিফ্রেশ রেট সকল ক্ষেত্রে 60Hz নির্ধারিত</string>
-    <string name="refresh_rate_summary_90">90Hz / রিফ্রেশ রেট সকল ক্ষেত্রে 90Hz নির্ধারিত। ব্যাটারির ব্যবহার বাড়াবে</string>
+    <string name="refresh_rate_summary_120">120Hz / রিফ্রেশ রেট সকল ক্ষেত্রে 90Hz নির্ধারিত। ব্যাটারির ব্যবহার বাড়াবে</string>
     <string name="auto_refresh_rate">স্বয়ংক্রিয়</string>
     <!-- Battery light -->
     <!-- High touch sensitivity -->

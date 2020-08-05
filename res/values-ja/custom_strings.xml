@@ -86,9 +86,9 @@
     <string name="proximity_wake_summary">スリープ解除する前に接近センサーで確認する</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">画面リフレッシュレート</string>
-    <string name="refresh_rate_summary_auto">自動 / いくつかのコンテンツでリフレッシュレートを60Hzから90Hzに自動的に変更</string>
+    <string name="refresh_rate_summary_auto">自動 / いくつかのコンテンツでリフレッシュレートを60Hzから120Hzに自動的に変更</string>
     <string name="refresh_rate_summary_60">60Hz / 全てのコンテンツでリフレッシュレートを60Hzに固定</string>
-    <string name="refresh_rate_summary_90">90Hz / 全てのコンテンツでリフレッシュレートを90Hzに固定。バッテリー使用量が増加します。</string>
+    <string name="refresh_rate_summary_120">120Hz / 全てのコンテンツでリフレッシュレートを120Hzに固定。バッテリー使用量が増加します。</string>
     <string name="auto_refresh_rate">自動</string>
     <!-- Battery light -->
     <string name="battery_light_title">充電時にライト点灯</string>
