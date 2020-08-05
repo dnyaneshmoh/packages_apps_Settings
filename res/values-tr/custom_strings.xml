@@ -86,9 +86,9 @@ Bu uygulamalara ait bildirimlerde gecikme olabilir."</string>
     <string name="proximity_wake_summary">Ekranı uyandırmadan önce yakınlık sensörünü kontrol et</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Ekran yenileme oranı</string>
-    <string name="refresh_rate_summary_auto">Otomatik / Bazı içeriklerin ekran yenileme hızını otomatik olarak 60\'dan 90\'a yükseltir</string>
+    <string name="refresh_rate_summary_auto">Otomatik / Bazı içeriklerin ekran yenileme hızını otomatik olarak 60\'dan 120\'a yükseltir</string>
     <string name="refresh_rate_summary_60">60Hz / Tüm içeriklerin yenileme hızını 60Hz\'ye kilitle</string>
-    <string name="refresh_rate_summary_90">90Hz / Tüm içeriklerin yenileme hızı 90Hz\'de kilitlendi. Pil kullanımını arttırır</string>
+    <string name="refresh_rate_summary_120">120Hz / Tüm içeriklerin yenileme hızı 120Hz\'de kilitlendi. Pil kullanımını arttırır</string>
     <string name="auto_refresh_rate">Otomatik</string>
     <!-- Battery light -->
     <string name="battery_light_title">Şarj ederken ışığı aç</string>

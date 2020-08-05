@@ -86,9 +86,9 @@
     <string name="proximity_wake_summary">唤醒屏幕前检查距离传感器</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">屏幕刷新率</string>
-    <string name="refresh_rate_summary_auto">自动 / 自动将某些内容的刷新率从60Hz提升到90Hz</string>
+    <string name="refresh_rate_summary_auto">自动 / 自动将某些内容的刷新率从60Hz提升到120Hz</string>
     <string name="refresh_rate_summary_60">60Hz / 所有的内容都将以60Hz的刷新率来显示</string>
-    <string name="refresh_rate_summary_90">90Hz / 所有的内容都将以90Hz的刷新率来显示。这将增加电池使用量</string>
+    <string name="refresh_rate_summary_120">120Hz / 所有的内容都将以120Hz的刷新率来显示。这将增加电池使用量</string>
     <string name="auto_refresh_rate">自动</string>
     <!-- Battery light -->
     <string name="battery_light_title">在充电时开启指示灯</string>

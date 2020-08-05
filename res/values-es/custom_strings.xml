@@ -86,9 +86,9 @@ Es posible que las notificaciones de estas aplicaciones te lleguen con retraso."
     <string name="proximity_wake_summary">Comprobar el sensor de proximidad antes de encender la pantalla</string>
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Frecuencia de actualización de la pantalla</string>
-    <string name="refresh_rate_summary_auto">Auto / Automáticamente aumenta la tasa de actualización de 60 a 90Hz para algún contenido</string>
+    <string name="refresh_rate_summary_auto">Auto / Automáticamente aumenta la tasa de actualización de 60 a 120Hz para algún contenido</string>
     <string name="refresh_rate_summary_60">60Hz / Tasa de actualización bloqueada a 60Hz para todo el contenido</string>
-    <string name="refresh_rate_summary_90">90Hz / Tasa de actualización bloqueada a 90Hz para todo el contenido. Aumenta el uso de batería</string>
+    <string name="refresh_rate_summary_120">120Hz / Tasa de actualización bloqueada a 120Hz para todo el contenido. Aumenta el uso de batería</string>
     <string name="auto_refresh_rate">Automático</string>
     <!-- Battery light -->
     <string name="battery_light_title">Encender la luz mientras está cargando</string>
